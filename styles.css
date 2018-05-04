@@ -1,0 +1,14 @@
+body {
+    background: peachpuff;
+}
+
+header {
+    background: white;
+}
+.card {
+    border: solid 1px palevioletred;
+    padding: 2%;
+    margin: 2%;
+    width: 30px;
+    height: 30px;
+}
